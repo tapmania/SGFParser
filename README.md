@@ -107,3 +107,7 @@ collection.to_s
 
 # SGF Parsing warning (À bon entendeur…)
 WARNING: An implementation requirement is to make sure any closing bracket ']' inside a comment is escaped: '\\]'. If this is not done, you will be one sad panda! This library will do this for you upon saving, but will most likely die horribly when parsing anything which does not follow this rule.
+
+
+
+bbojboub
